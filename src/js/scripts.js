@@ -50,7 +50,7 @@ scene.background = cubeTextureLoader.load([
 
 const textureLoader = new THREE.TextureLoader();
 
-const sunGeo = new THREE.SphereGeometry(16, 30, 30);
+const sunGeo = new THREE.SphereGeometry(16, 100, 100);
 const sunMat = new THREE.MeshBasicMaterial({
   map: textureLoader.load(sunTexture),
 });
@@ -58,7 +58,7 @@ const sun = new THREE.Mesh(sunGeo, sunMat);
 scene.add(sun);
 
 function createPlanets(size, texture, position, ring) {
-  const geo = new THREE.SphereGeometry(size, 30, 30);
+  const geo = new THREE.SphereGeometry(size, 100, 100);
   const mat = new THREE.MeshStandardMaterial({
     map: textureLoader.load(texture),
   });

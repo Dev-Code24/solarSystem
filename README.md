@@ -14,3 +14,5 @@ http://planetpixelemporium.com/mercury.html
 https://www.deviantart.com/niko22966/art/Rings-of-Saturn-419585311
 
 https://favpng.com/png_view/uranus-the-trooth-texture-mapping-planet-mykolaiv-png/0rw9hFBt
+
+<img width="1680" alt="solarSystem" src="https://github.com/Dev-Code24/solarSystem/assets/97425135/f74a2f3f-d650-4597-b8e7-1a97e4af6622">
